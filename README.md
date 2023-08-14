@@ -1,6 +1,6 @@
 # ui_zantrik
 
-A new Flutter project.
+A new Flutter project. This project containing only ui
 
 ## Getting Started
 
